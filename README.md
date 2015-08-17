@@ -1,4 +1,4 @@
-FirstJqueryCode-OnGithub
+Vegas Night Life Crawl
 ========================
 
-Jquery Code on GitHub
+Styling/CSS and jQuery Changes
