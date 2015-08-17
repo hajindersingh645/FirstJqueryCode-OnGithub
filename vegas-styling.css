@@ -1,0 +1,26 @@
+@media min-width(990px){
+  .wtrMainNavigation{
+    display: block !important;
+  }
+}
+
+@media max-width(990px){
+  .wtrMainNavigation{
+    position: absolute;
+    width: 40%;
+    background-color: #000;
+    right: 0;
+    float: none !important;
+    margin: 0;
+    border: solid 1px #333;
+  }
+  .wtrMainNavigation li{
+    float: none !important;
+    margin: 18px 0px 16px 40px !important;
+  }
+}
+@media max-width(640px){
+  .wtrMainNavigation{
+    width: 100%;
+  }
+}
