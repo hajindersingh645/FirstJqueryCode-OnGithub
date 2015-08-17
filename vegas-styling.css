@@ -1,16 +1,16 @@
-@media min-width(320px){
+@media (min-width:320px){
   .md-show ~ .md-overlay, .couponDiv {
     display: none;
   }
 }
 
-@media min-width(990px){
+@media (min-width:990px){
   .wtrMainNavigation{
     display: block !important;
   }
 }
 
-@media max-width(990px){
+@media (max-width:990px){
   .wtrMainNavigation{
     position: absolute;
     width: 40%;
@@ -38,7 +38,7 @@
   }
 }
 
-@media max-width(768px){
+@media (max-width:768px){
   .optionsCnt .options{
     width: 100% !important;
     float: none !important;
@@ -48,7 +48,7 @@
   }
 }
 
-@media max-width(640px){
+@media (max-width:640px){
   .wtrMainNavigation{
     width: 100%;
   }
